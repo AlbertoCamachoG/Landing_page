@@ -1,0 +1,64 @@
+{
+    "testimonios":[
+        {
+            "name":"RandomUser1",
+            "text":"Buenas tardes",
+            "img":"/images/user1.png",
+            "fecha":"10/12/2016"
+        },
+        {
+            "name":"RandomUser2",
+            "text":"Bonito dia",
+            "img":"/images/user2.png",
+            "fecha":"1/3/2018"
+        },
+        {
+            "name":"RandomUser3",
+            "text":"Un servicio [insertar adjetivo]",
+            "img":"/images/user3.png",
+            "fecha":"9/8/2040"
+        },
+        {
+            "name":"RandomUser4",
+            "text":"Las fechas no tienen ninguna clase de sentido",
+            "img":"/images/user1.png",
+            "fecha":"4/4/1999"
+        },
+        {
+            "name":"RandomUser5",
+            "text":"Imaginate hacer las cosas con tiempo y no la noche de antes",
+            "img":"/images/user2.png",
+            "fecha":"21/1/2021"
+        },
+        {
+            "name":"RandomUser6",
+            "text":"Hola que tal increible producto bastante poco recomendable",
+            "img":"/images/user3.png",
+            "fecha":"3/7/2016"
+        },
+        {
+            "name":"RandomUser7",
+            "text":"Esto es peor que twitter",
+            "img":"/images/user1.png",
+            "fecha":"2/5/2015"
+        },
+        {
+            "name":"RandomUser8",
+            "text":"Es daltonico o algo el que ha hecho esto? porque se ha lucido",
+            "img":"/images/user2.png",
+            "fecha":"27/11/2017"
+        },
+        {
+            "name":"ElXokas",
+            "text":"Esto no es juego, crees que es un juego? eso sera porque eres un noname que no ha conseguido nada en la vida",
+            "img":"/images/user3.png",
+            "fecha":"19/1/2021"
+        },
+        {
+            "name":"A",
+            "text":"shaaaaark",
+            "img":"/images/user1.png",
+            "fecha":"14/6/2020"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "servicios":[
+        {
+            "nombre":"Recrutamiento",
+            "texto":"Te ponemos en contacto con los profesionales menos capacitados de tu sector",
+            "link":"https://www.recruit.com",
+            "imagen":"/images/hire.jpg"
+        },
+        {
+            "nombre":"Préstamo",
+            "texto":"Te ayudamos a financiar un proyecto con la bajisima tasa de interés del 200%",
+            "link":"https://www.sharkLoan.com",
+            "imagen":"/images/loan.png"
+        },
+        {
+            "nombre":"Decoración",
+            "texto":"Contrata a los mejores profesionales para decorar tu empresa y que tus empleados se sientan como en casa",
+            "link":"https://www.shinyThings.com",
+            "imagen":"/images/decor.jpg"
+        },
+        {
+            "nombre":"Análisis de mercado",
+            "texto":"Te ofrecemos la información de las últimas novedades en el mercado y la competencia",
+            "link":"https://www.spyThugs.com",
+            "imagen":"/images/chart.png"
+        },
+        {
+            "nombre":"Responsabilidad Social",
+            "texto":"Asegúrate de que tu empresa cumple con los requisitos minimos para con la sociedad",
+            "link":"https://www.noOneCares.com",
+            "imagen":"/images/social.png"
+        }        
+    ]
+}
